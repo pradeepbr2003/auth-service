@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: auth-service
+auth:
+  username1: ${username1}
+  password1: ${pwd_1}
+  username2: ${username2}
+  password2: ${pwd_2}
+
+logging:
+  level:
+    root: warn
+    org.example: info
+
+eureka:
+  client:
+    register-with-eureka: true
+  instance:
+    prefer-ip-address: true
+server:
+  port: 8083

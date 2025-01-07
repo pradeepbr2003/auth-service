@@ -1,0 +1,65 @@
+2025-01-02T16:01:48.641+05:30  INFO 24996 --- [auth-service] [main] org.example.AuthServiceApplication       : Starting AuthServiceApplication using Java 17.0.13 with PID 24996 (C:\Personal\Codebase\Retail\spring-boot-microservices-series\auth-service\target\classes started by pradeep.a.ramaiah in C:\Personal\Codebase\Retail\spring-boot-microservices-series\auth-service)
+2025-01-02T16:01:48.644+05:30  INFO 24996 --- [auth-service] [main] org.example.AuthServiceApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-02T16:01:50.139+05:30  INFO 24996 --- [auth-service] [main] org.example.config.SecurityConfig        : 
+
+ User Credentails: AuthPropertyConfiguration(username1=pradeep, password1=pwd1, username2=pratap, password2=pwd2) 
+
+
+2025-01-02T16:01:50.657+05:30  WARN 24996 --- [auth-service] [main] thorizationManagerRequestMatcherRegistry : One of the patterns in [/auth/welcome, auth/autenticate] is missing a leading slash. This is discouraged; please include the leading slash in all your request matcher patterns. In future versions of Spring Security, leaving out the leading slash will result in an exception.
+2025-01-02T16:01:50.969+05:30  INFO 24996 --- [auth-service] [main] org.example.AuthServiceApplication       : Started AuthServiceApplication in 2.869 seconds (process running for 3.214)
+2025-01-02T16:03:13.829+05:30  INFO 14896 --- [auth-service] [main] o.example.AuthServiceApplicationTests    : Starting AuthServiceApplicationTests using Java 17.0.13 with PID 14896 (started by pradeep.a.ramaiah in C:\Personal\Codebase\Retail\spring-boot-microservices-series\auth-service)
+2025-01-02T16:03:13.831+05:30  INFO 14896 --- [auth-service] [main] o.example.AuthServiceApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-01-02T16:03:14.963+05:30  INFO 14896 --- [auth-service] [main] org.example.config.SecurityConfig        : 
+
+ User Credentails: AuthPropertyConfiguration(username1=pradeep, password1=pwd1, username2=pratap, password2=pwd2) 
+
+
+2025-01-02T16:03:15.571+05:30  WARN 14896 --- [auth-service] [main] thorizationManagerRequestMatcherRegistry : One of the patterns in [/auth/welcome, auth/autenticate] is missing a leading slash. This is discouraged; please include the leading slash in all your request matcher patterns. In future versions of Spring Security, leaving out the leading slash will result in an exception.
+2025-01-02T16:03:15.942+05:30  INFO 14896 --- [auth-service] [main] o.example.AuthServiceApplicationTests    : Started AuthServiceApplicationTests in 2.463 seconds (process running for 4.224)
+2025-01-02T16:07:18.890+05:30  INFO 20932 --- [auth-service] [main] o.example.AuthServiceApplicationTests    : Starting AuthServiceApplicationTests using Java 17.0.13 with PID 20932 (started by pradeep.a.ramaiah in C:\Personal\Codebase\Retail\spring-boot-microservices-series\auth-service)
+2025-01-02T16:07:18.892+05:30  INFO 20932 --- [auth-service] [main] o.example.AuthServiceApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-01-02T16:07:20.424+05:30  INFO 20932 --- [auth-service] [main] org.example.config.SecurityConfig        : 
+
+ User Credentails: AuthPropertyConfiguration(username1=pradeep, password1=pwd1, username2=pratap, password2=pwd2) 
+
+
+2025-01-02T16:07:21.406+05:30  WARN 20932 --- [auth-service] [main] thorizationManagerRequestMatcherRegistry : One of the patterns in [/auth/welcome, auth/autenticate] is missing a leading slash. This is discouraged; please include the leading slash in all your request matcher patterns. In future versions of Spring Security, leaving out the leading slash will result in an exception.
+2025-01-02T16:07:21.816+05:30  INFO 20932 --- [auth-service] [main] o.example.AuthServiceApplicationTests    : Started AuthServiceApplicationTests in 3.365 seconds (process running for 4.663)
+2025-01-02T16:07:41.231+05:30  INFO 23008 --- [auth-service] [main] org.example.AuthServiceApplication       : Starting AuthServiceApplication using Java 17.0.13 with PID 23008 (C:\Personal\Codebase\Retail\spring-boot-microservices-series\auth-service\target\classes started by pradeep.a.ramaiah in C:\Personal\Codebase\Retail\spring-boot-microservices-series\auth-service)
+2025-01-02T16:07:41.235+05:30  INFO 23008 --- [auth-service] [main] org.example.AuthServiceApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-02T16:07:43.139+05:30  INFO 23008 --- [auth-service] [main] org.example.config.SecurityConfig        : 
+
+ User Credentails: AuthPropertyConfiguration(username1=pradeep, password1=pwd1, username2=pratap, password2=pwd2) 
+
+
+2025-01-02T16:07:43.668+05:30  WARN 23008 --- [auth-service] [main] thorizationManagerRequestMatcherRegistry : One of the patterns in [/auth/welcome, auth/autenticate] is missing a leading slash. This is discouraged; please include the leading slash in all your request matcher patterns. In future versions of Spring Security, leaving out the leading slash will result in an exception.
+2025-01-02T16:07:43.950+05:30  INFO 23008 --- [auth-service] [main] org.example.AuthServiceApplication       : Started AuthServiceApplication in 3.505 seconds (process running for 4.136)
+2025-01-02T16:23:09.726+05:30  INFO 17128 --- [auth-service] [main] org.example.AuthServiceApplication       : Starting AuthServiceApplication using Java 17.0.13 with PID 17128 (C:\Personal\Codebase\Retail\spring-boot-microservices-series\auth-service\target\classes started by pradeep.a.ramaiah in C:\Personal\Codebase\Retail\spring-boot-microservices-series\auth-service)
+2025-01-02T16:23:09.729+05:30  INFO 17128 --- [auth-service] [main] org.example.AuthServiceApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-02T16:23:11.269+05:30  INFO 17128 --- [auth-service] [main] org.example.config.SecurityConfig        : 
+
+ User Credentails: AuthPropertyConfiguration(username1=pradeep, password1=pwd1, username2=pratap, password2=pwd2) 
+
+
+2025-01-02T16:23:11.816+05:30  WARN 17128 --- [auth-service] [main] thorizationManagerRequestMatcherRegistry : One of the patterns in [/auth/welcome, auth/autenticate] is missing a leading slash. This is discouraged; please include the leading slash in all your request matcher patterns. In future versions of Spring Security, leaving out the leading slash will result in an exception.
+2025-01-02T16:23:12.156+05:30  INFO 17128 --- [auth-service] [main] org.example.AuthServiceApplication       : Started AuthServiceApplication in 3.117 seconds (process running for 4.039)
+2025-01-02T16:26:51.962+05:30  INFO 23456 --- [auth-service] [main] org.example.AuthServiceApplication       : Starting AuthServiceApplication using Java 17.0.13 with PID 23456 (C:\Personal\Codebase\Retail\spring-boot-microservices-series\auth-service\target\classes started by pradeep.a.ramaiah in C:\Personal\Codebase\Retail\spring-boot-microservices-series\auth-service)
+2025-01-02T16:26:51.965+05:30  INFO 23456 --- [auth-service] [main] org.example.AuthServiceApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-02T16:26:53.696+05:30  INFO 23456 --- [auth-service] [main] org.example.config.SecurityConfig        : 
+
+ User Credentails: AuthPropertyConfiguration(username1=pradeep, password1=pwd1, username2=pratap, password2=pwd2) 
+
+
+2025-01-02T16:26:54.370+05:30  WARN 23456 --- [auth-service] [main] thorizationManagerRequestMatcherRegistry : One of the patterns in [/auth/welcome, auth/autenticate] is missing a leading slash. This is discouraged; please include the leading slash in all your request matcher patterns. In future versions of Spring Security, leaving out the leading slash will result in an exception.
+2025-01-02T16:26:54.690+05:30  INFO 23456 --- [auth-service] [main] org.example.AuthServiceApplication       : Started AuthServiceApplication in 3.369 seconds (process running for 3.829)
+2025-01-02T16:28:11.902+05:30  INFO 23456 --- [auth-service] [http-nio-8080-exec-3] org.example.controller.AuthController    : Invoking authenticateAndGenerateToken method
+2025-01-02T16:28:44.961+05:30  INFO 16460 --- [auth-service] [main] org.example.AuthServiceApplication       : Starting AuthServiceApplication using Java 17.0.13 with PID 16460 (C:\Personal\Codebase\Retail\spring-boot-microservices-series\auth-service\target\classes started by pradeep.a.ramaiah in C:\Personal\Codebase\Retail\spring-boot-microservices-series\auth-service)
+2025-01-02T16:28:44.963+05:30  INFO 16460 --- [auth-service] [main] org.example.AuthServiceApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-02T16:28:46.031+05:30  INFO 16460 --- [auth-service] [main] org.example.config.SecurityConfig        : 
+
+ User Credentails: AuthPropertyConfiguration(username1=pradeep, password1=pwd1, username2=pratap, password2=pwd2) 
+
+
+2025-01-02T16:28:46.463+05:30  WARN 16460 --- [auth-service] [main] thorizationManagerRequestMatcherRegistry : One of the patterns in [/auth/welcome, auth/autenticate] is missing a leading slash. This is discouraged; please include the leading slash in all your request matcher patterns. In future versions of Spring Security, leaving out the leading slash will result in an exception.
+2025-01-02T16:28:46.660+05:30  INFO 16460 --- [auth-service] [main] org.example.AuthServiceApplication       : Started AuthServiceApplication in 2.131 seconds (process running for 2.419)
+2025-01-02T16:28:55.723+05:30  INFO 16460 --- [auth-service] [http-nio-8080-exec-1] org.example.controller.AuthController    : Invoking authenticateAndGenerateToken method
